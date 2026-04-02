@@ -33,6 +33,5 @@ Soy estudiante de Ingeniería Civil Informática en la Universidad Católica de 
 
 ## Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=detossj&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=detossj&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D&timezone=America/Santiago)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detossj&layout=compact&theme=default)
