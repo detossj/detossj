@@ -24,14 +24,3 @@ Soy estudiante de Ingeniería Civil Informática en la Universidad Católica de 
 
 **Bases de Datos:**
 * PostgreSQL | MySQL
-
-## Proyectos Destacados
-
-* **Nutrik:** Aplicación diseñada para el seguimiento y control de calorías.
-* **FastFoodRestaurant:** Proyecto enfocado en la gestión de un restaurante utilizando Laravel y React.
-* **Portafolio Personal:** Proyecto web para exhibir mi trabajo y proyectos a lo largo de la carrera.
-
-## Estadísticas de GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=detossj&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D&timezone=America/Santiago)](https://git.io/streak-stats)
-
